@@ -76,6 +76,9 @@ Steps followed:
 **Step 2 – SSH Login Using Private Key**  
 ![Bandit Level 13 Screenshot – SSH Login](screenshots/level13_2.png)
 
+![Bandit Level 13 Screenshot – SSH Login](screenshots/level13_3.png)
+
+
 
 ---
 
