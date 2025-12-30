@@ -67,11 +67,9 @@ Steps followed:
 
 ### 📸 Screenshot Evidence  
 
-**Cloning the Repository and Checking Files**  
-![Bandit Level 30 – Repository](screenshots/level30_1.png)
 
-**Viewing the Hidden Git Tag That Contains the Password**  
-![Bandit Level 30 – Git Tag](screenshots/level30_2.png)
+![Bandit Level 30 – Repository](screenshots/level30.png)
+
 
 
 ---
