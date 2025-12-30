@@ -63,7 +63,8 @@ Steps followed:
 
 ### 📸 Screenshot Evidence  
 
-![Bandit Level 20 Screenshot](screenshots/level20.png)
+![Bandit Level 20 Screenshot](screenshots/level20_1.png)
+![Bandit Level 20 Screenshot](screenshots/level20_2.png)
 
 
 ---
