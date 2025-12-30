@@ -78,7 +78,6 @@ Steps followed:
 
 ![Bandit Level 26 Screenshot - Part 3](screenshots/level26_3.png)
 
-![Bandit Level 26 Screenshot - Part 3](screenshots/level26_4.png)
 
 
 ---
