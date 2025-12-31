@@ -77,7 +77,7 @@ Steps followed:
 ### 🔑 Next Level Password  
 
 ```
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+4oQYVPkxZ00E005pTW81FB8j8lxXGUQw
 ```
 
 
