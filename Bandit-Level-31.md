@@ -73,11 +73,9 @@ Steps followed:
 
 ### 📸 Screenshot Evidence  
 
-**Creating the Required File and Preparing the Commit**  
 ![Bandit Level 31 – File Creation](screenshots/level31_1.png)
-
-**Pushing the Commit to the Remote Server to Receive the Password**  
 ![Bandit Level 31 – Push Result](screenshots/level31_2.png)
+![Bandit Level 31 – Push Result](screenshots/level31_3.png)
 
 
 ---
